@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/justforlxz/hexo-theme-mkacg.git"
   },
-  "author": "justforlxz",
+  "keywords": [
+    "hexo"
+  ],
+  "author": "justforlxz <justforlxz@gmail.com> (https://github.com/justforlxz)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/justforlxz/hexo-theme-mkacg/issues"
